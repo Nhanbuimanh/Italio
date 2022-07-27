@@ -1,0 +1,11 @@
+.select {
+    position: relative;
+}
+
+.select a {
+    text-decoration-line: none;
+}
+
+.select i {
+    float: right;
+}
